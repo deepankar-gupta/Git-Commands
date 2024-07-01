@@ -65,6 +65,7 @@ _A list of my commonly used Git commands_
 | `git pull` | Update local repository to the newest commit |
 | `git pull origin [branch name]` | Pull changes from remote repository |
 | `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
+| `git remote get-url origin` | Check how did we clone the repo.. whether using https or ssh |
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
 
 ### Inspection & Comparison
