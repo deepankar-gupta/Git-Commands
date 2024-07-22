@@ -77,3 +77,4 @@ _A list of my commonly used Git commands_
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 | `git diff head [source branch] [target branch]` | check git diff vs. git diff head |
+| `git config --global --list` | check global config for git |
