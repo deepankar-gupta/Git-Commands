@@ -79,3 +79,4 @@ _A list of my commonly used Git commands_
 | `git diff head [source branch] [target branch]` | check git diff vs. git diff head |
 | `git config --global --list` | check global config for git |
 | `git remote -v ` `git ls-remote --get-url origin` | check origin for a repo |
+| `git log --graph` | git commit history |
